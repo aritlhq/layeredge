@@ -1,1 +1,1 @@
-mv https-example.txt https.txt && mv wallets-example.json wallets.json
+cp https-example.txt https.txt && cp wallets-example.json wallets.json
