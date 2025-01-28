@@ -30,8 +30,8 @@ Website: https://dashboard.layeredge.io/
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/airdropinsiders/LayerEdge-Auto-Bot.git
-    cd LayerEdge-Auto-Bot
+    git clone https://github.com/aritlhq/layeredge.git
+    cd layeredge
     ```
 
 2. Install dependencies:
